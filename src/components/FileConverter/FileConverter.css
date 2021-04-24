@@ -1,0 +1,47 @@
+.converter-container {
+    position: relative;
+    background-color: #424b5c;
+    border-radius: 15px;
+    min-height: 50vh;
+    min-width: 50vw;
+    max-width: 75vw;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.uploader {
+    box-sizing: border-box;
+    width: 50%;
+    border: 5px solid #636f87;
+    border-radius: 15px 0 0 15px;
+}
+
+.downloader {
+    box-sizing: border-box;
+    width: 50%;
+    border: 5px solid #636f87;
+    border-radius: 0 15px 15px 0;
+}
+
+#process {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 45%);
+
+    border:none;
+    color: white;
+    font-size: 1.3em;
+    font-weight: 600;
+    background-color: #424b5c;
+    padding: 1% 5%;
+    border: 3px #636f87 solid;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+#process.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
