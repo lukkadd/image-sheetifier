@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/image-sheetifier/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/image-sheetifier/static/js/main.d49e2129.chunk.js",
-    "main.js.map": "/image-sheetifier/static/js/main.d49e2129.chunk.js.map",
-    "runtime-main.js": "/image-sheetifier/static/js/runtime-main.fac9c5e9.js",
-    "runtime-main.js.map": "/image-sheetifier/static/js/runtime-main.fac9c5e9.js.map",
-    "static/js/2.99cd979c.chunk.js": "/image-sheetifier/static/js/2.99cd979c.chunk.js",
-    "static/js/2.99cd979c.chunk.js.map": "/image-sheetifier/static/js/2.99cd979c.chunk.js.map",
-    "static/js/3.f61119e9.chunk.js": "/image-sheetifier/static/js/3.f61119e9.chunk.js",
-    "static/js/3.f61119e9.chunk.js.map": "/image-sheetifier/static/js/3.f61119e9.chunk.js.map",
+    "main.css": "/image-sheetifier/static/css/main.5a8e743c.chunk.css",
+    "main.js": "/image-sheetifier/static/js/main.7e12c1ca.chunk.js",
+    "main.js.map": "/image-sheetifier/static/js/main.7e12c1ca.chunk.js.map",
+    "runtime-main.js": "/image-sheetifier/static/js/runtime-main.b6bac0e6.js",
+    "runtime-main.js.map": "/image-sheetifier/static/js/runtime-main.b6bac0e6.js.map",
+    "static/js/2.8dec32c6.chunk.js": "/image-sheetifier/static/js/2.8dec32c6.chunk.js",
+    "static/js/2.8dec32c6.chunk.js.map": "/image-sheetifier/static/js/2.8dec32c6.chunk.js.map",
+    "static/js/3.be744235.chunk.js": "/image-sheetifier/static/js/3.be744235.chunk.js",
+    "static/js/3.be744235.chunk.js.map": "/image-sheetifier/static/js/3.be744235.chunk.js.map",
     "index.html": "/image-sheetifier/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/image-sheetifier/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.99cd979c.chunk.js.LICENSE.txt": "/image-sheetifier/static/js/2.99cd979c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/image-sheetifier/static/media/logo.6ce24c58.svg"
+    "static/css/main.5a8e743c.chunk.css.map": "/image-sheetifier/static/css/main.5a8e743c.chunk.css.map",
+    "static/js/2.8dec32c6.chunk.js.LICENSE.txt": "/image-sheetifier/static/js/2.8dec32c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fac9c5e9.js",
-    "static/js/2.99cd979c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.d49e2129.chunk.js"
+    "static/js/runtime-main.b6bac0e6.js",
+    "static/js/2.8dec32c6.chunk.js",
+    "static/css/main.5a8e743c.chunk.css",
+    "static/js/main.7e12c1ca.chunk.js"
   ]
 }
